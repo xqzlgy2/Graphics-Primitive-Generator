@@ -15,17 +15,17 @@ In drawing line drawing primitives, the corresponding parameters can be drawn by
 
  --------------------------------------------------------------------------
 ### Samples:
-#### 1. Bresenham algorithm
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Bresenham.png)
-#### 2. DDA algorithm
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/DDA.png)
-#### 3. Mid-point Circle
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Midpoint%20Circle.png)
-#### 4. Mid-point Ellipse
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Midpoint%20Ellipse.png)
-#### 5. Scan-conversion Filling
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Scan%20Conversion.png)
-#### 6. Recursive Filling
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Recursive%20Filling.png)
-#### 7. Non-recursive Scan Conversion Filling
-(https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Non-recursive%20Scan%20Conversion.png)
+1. Bresenham algorithm
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Bresenham.png"  width="250" height="300">
+2. DDA algorithm
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/DDA.png"  width="250" height="300">
+3. Mid-point Circle
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Midpoint%20Circle.png"  width="250" height="300">
+4. Mid-point Ellipse
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Midpoint%20Ellipse.png"  width="250" height="300">
+5. Scan-conversion Filling
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Scan%20Conversion.png"  width="250" height="300">
+6. Recursive Filling
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Recursive%20Filling.png"  width="250" height="300">
+7. Non-recursive Scan Conversion Filling
+<img src="https://github.com/xqzlgy2/Graphics-Primitive-Generator/blob/master/Pictures/Non-recursive%20Scan%20Conversion.png"  width="250" height="300">
